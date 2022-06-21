@@ -3,7 +3,7 @@ I created this website so that the customers can view all the trips we done and 
 We will take care of all the things when we take our customers to trip.\
 Customers can also contact us if they have any issues regarding the trip.\
 I also deployed my project in the Azure portal.\
-Azure Link : - 
+Azure Link : - https://gray-sand-08918b510.1.azurestaticapps.net
 
 Screen Shots of my Project : - 
 # Home Page : -
